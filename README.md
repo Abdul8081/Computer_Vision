@@ -1,1 +1,1 @@
-This repository is containg some basics implimentations of the frame work cv2 (Computer Vision)
+This repository is containg implimentations of the frame work cv2 (Computer Vision)
